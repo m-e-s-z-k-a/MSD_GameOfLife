@@ -2,6 +2,8 @@ package agh.ics.msd;
 
 import javax.swing.JFrame;
 
+//uwaga: przy zmianie trybu z rain na game of life i na odwrót, grę trzeba uruchamiać dwukrotnie, aby ruszyła
+
 public class Program extends JFrame {
 
     private static final long serialVersionUID = 1L;

@@ -79,11 +79,6 @@ public class Point {
         }
     }
 
-    private Point getRainNeighbor()
-    {
-        return this.neighbors.get(0);
-    }
-
     public int getActiveNeighbors()
     {
         int activeNeighborsNumber = 0;
